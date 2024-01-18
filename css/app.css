@@ -341,12 +341,12 @@ img {
   padding: 5rem 0;
 }
 
-@media (min-width: 768px) { 
-    .footer__contenido{
-        display: flex;
-        justify-content: space-between;
-    }
- }
+@media (min-width: 768px) {
+  .footer__contenido {
+    display: flex;
+    justify-content: space-between;
+  }
+}
 .footer__nav {
   display: flex;
   flex-direction: column;
@@ -377,14 +377,14 @@ img {
   text-align: center;
 }
 
-.nosotros__grid{
+.nosotros__grid {
   display: grid;
   gap: 4rem;
 }
 
-@media (min-width: 768px) { 
-  .nosotros__grid{
-    grid-template-columns: repeat(2,1fr);
+@media (min-width: 768px) {
+  .nosotros__grid {
+    grid-template-columns: repeat(2, 1fr);
     align-items: center;
-  } 
- }
+  }
+}
