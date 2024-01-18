@@ -292,6 +292,11 @@ img {
   }
 }
 
+.entrada{
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
 .entrada__contenido {
   padding: 2rem;
 }
@@ -388,3 +393,5 @@ img {
     align-items: center;
   }
 }
+
+
